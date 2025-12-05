@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure!";
+echo "Hello CMVIP 視障人士福音中心 on Azure!";
